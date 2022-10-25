@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(37, 27, 55);
+    font-family: 'Roboto Mono', monospace;
+
+}
+    
+h1{
+    color: rgb(255, 202, 202)
+
+}
+
+p{
+    color: rgb(255, 236, 239)
+}
+
+h2 {
+    color:rgb(55, 41, 72)
+}
+
+ol {
+    color: rgb(255, 236, 239)
+}
+
+li {
+    color: rgb(255, 236, 239)
+}
